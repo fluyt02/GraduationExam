@@ -61,3 +61,6 @@
     - InstagramAPI（グラフ）
 
 インフルエンサーの投稿を集めるために、InstagramAPIを利用する予定です。これにより、リアルタイムで投稿情報を反映させることができます。また、ユーザーレビュー機能では、独自の評価システムを導入し、信頼性の高いレビューを提供します。
+
+##　画面遷移図
+https://www.figma.com/file/R6RTwBmzUkDOHjtlti8eSN/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&node-id=0%3A1&mode=design&t=BJa3JKV0wEE4bkg8-1
